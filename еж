@@ -1,0 +1,3 @@
+codename = [еж]
+print(f'идите к[codename].Подходите')
+
